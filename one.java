@@ -1,5 +1,6 @@
 public static void main(String args[]){
 
-    Ssystem.out.println("welcome to Devops");
+    System.out.println("welcome to Devops");
+    System.out.println("hi");
    
 }
